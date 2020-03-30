@@ -45,11 +45,16 @@ export default class Page3 extends React.Component {
             id: 0
         };
         this.keys = [];
-        this.dbRef0.get().then(snapshot => {
+        this.dbRef.get().then(snapshot => {
             snapshot.forEach(doc => {
                 this.keys.push(doc.id)
             });
-            this.setState({ id: parseInt(this.keys[this.keys.length - 1])})
+            if (this.keys.length > 0) {
+                this.setState({ id: parseInt(this.keys[this.keys.length - 1]) + 1 })
+            }
+            else {
+                this.setState({ id: 1 })
+            }
         })
     }
     inputValueUpdate = (val, prop) => {

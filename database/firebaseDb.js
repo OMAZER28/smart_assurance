@@ -2,13 +2,13 @@ import * as firebase from 'firebase';
 import firestore from 'firebase/firestore'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDIaf21DVzRWfIoKy5hADilhSLt1PbvS1Y",
-    authDomain: "smart-assurance-dbc47.firebaseapp.com",
-    databaseURL: "https://smart-assurance-dbc47.firebaseio.com",
-    projectId: "smart-assurance-dbc47",
-    storageBucket: "smart-assurance-dbc47.appspot.com",
-    messagingSenderId: "426379825851",
-    appId: "1:426379825851:web:ee5b00709a697821328f9e",
+    apiKey: "AIzaSyDvlBQ-TapHuF0JRY3kmPEA5oX7wrolTbc",
+    authDomain: "smart-assurance-13d0e.firebaseapp.com",
+    databaseURL: "https://smart-assurance-13d0e.firebaseio.com",
+    projectId: "smart-assurance-13d0e",
+    storageBucket: "smart-assurance-13d0e.appspot.com",
+    messagingSenderId: "114355197008",
+    appId: "1:114355197008:web:b962dcf6d65f56719ced55",
 };
 
 firebase.initializeApp(firebaseConfig);

@@ -1,0 +1,576 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-sketch-canvas] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-sketch-canvas\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\a7a687e5496e8a96278bafe95bfc5bce\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd5947a61c26055d16dea54b76aae9e1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\71ae1863c6d09416605848222fc9de73\AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-gl] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-gl\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:expo-keep-awake] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-gl-cpp] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-gl-cpp\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\0abf071e89f1a75a8edc14020ea58469\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b8087fa0ede4cdb151b7227b99b5ab0c\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\6d6b7292234d41c25a31cbfbe29d2943\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\36076074ef160ab044da84373ce3888b\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\6758ab5defb2bb5218abb99b4f7486c3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\c8952d643cf467e2c73a147053383de3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-17.0.2.aar\6c743f94b85a059055524c9af762911a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\3d7ecdf1585b5a158c425354dfb9083d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\046a102dbaeb2371368094d6fb25d379\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\a43a1dacf0382175b2671909fee864a2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\cf75835bc917dc9a71b6e263c318cf85\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7cb6d3edc6b418841147e81d1a3446d8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\24d77607976419036286f996d339ef54\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.1.0.aar\d8d04874220b04c611bf878e067ac65d\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\292170a398bbc8616bc7a92ab7012697\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\c721049d022404a244ad6d7230afc292\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\4049baf95fd7a78c02dc95f4b019f0ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\df10c2e38bd0dfed1c23820618d943f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\63961837fb6e8eec17bcf73522e1db63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\01222fd2e7cda8bb5342ab3d1b816f8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\db971776a2c14916a9bb8412282eb157\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\cb7349a619065cdbfda4553000bb1ad5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\66067dbcf4d788d03b05008f7c7b445f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\f5cf97ef4fab6c262e76e33742be8e80\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\67c30e19f3d73d0038456e080ac5447f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\7484aee4d6e166f89043911d0ae0ee8e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\c85fbf4cbad9f2379ccaf3a506aac67b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\5ef3eb580c14ab8ad8a8168d8d608b0f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\d60afb6853f2144c8432f998080fd79b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\579f37da65bedab718fd1def893090b3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\e2f71d763b5957349644d8108a86d7f7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\a258411b76a1eab08ae3d6d37e87b0e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\d6c181cd12f4f3696de6463ae447da9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7a86f62eddf51963b862ccd40fad87d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1be8db13cf52aa11495e41ae20fef894\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\a70d9ee567dda1830e7c2678bcf1af99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c9f3a9908c75c8419e07a4c8201953cd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\401b7c39355b885029dd7893373b0f25\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc5e1fe4e3e526f206130ec494684dba\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5036d70b4ffd5052c857c0568819d433\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\67015defd9b23e6982ecea75f40c2e63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\dc736df09bd428127e3219d3c24b6fff\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\a2d4c860422ae534011370a09b8f72b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\122c84861d6f3717d109b8cdbab4a2a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\f44726843cb6000669c90694218dfd7b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\bed616d82469887d642a725aad993f9c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\333cc338757fc2f5938308cccaaaddde\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\091613b83921a2cfa9ad7e8d22c899fb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\a9a491911256fa342ef9b6e3ccac39c0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\87a45353b9c53ff0ce24a19888686fe9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\df967c0cbf6863279a59420e06ab5eba\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\51383ea825f507326bc4128310b49d1c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\0cd8eb3b4faa3d4c6828e1b75a3f3e12\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\08fae258b033a8220aad8ce2c0a8b3dc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\f0143c33357bb2e4d791f0d01105a16f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0107767d71472ebef094f99a7c09a310\AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\ee6b6928d7f5dcac6a8c0fd391d0747b\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:1-49:12
+	package
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:2:5-22
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:18:5-65
+MERGED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:25:22-70
+application
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:29:5-47:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\a7a687e5496e8a96278bafe95bfc5bce\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\a7a687e5496e8a96278bafe95bfc5bce\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd5947a61c26055d16dea54b76aae9e1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd5947a61c26055d16dea54b76aae9e1\AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b8087fa0ede4cdb151b7227b99b5ab0c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b8087fa0ede4cdb151b7227b99b5ab0c\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\36076074ef160ab044da84373ce3888b\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\36076074ef160ab044da84373ce3888b\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\6758ab5defb2bb5218abb99b4f7486c3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\6758ab5defb2bb5218abb99b4f7486c3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\c8952d643cf467e2c73a147053383de3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\c8952d643cf467e2c73a147053383de3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-17.0.2.aar\6c743f94b85a059055524c9af762911a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-17.0.2.aar\6c743f94b85a059055524c9af762911a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\3d7ecdf1585b5a158c425354dfb9083d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\3d7ecdf1585b5a158c425354dfb9083d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\a43a1dacf0382175b2671909fee864a2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\a43a1dacf0382175b2671909fee864a2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\cf75835bc917dc9a71b6e263c318cf85\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\cf75835bc917dc9a71b6e263c318cf85\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7cb6d3edc6b418841147e81d1a3446d8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7cb6d3edc6b418841147e81d1a3446d8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\24d77607976419036286f996d339ef54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\24d77607976419036286f996d339ef54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.1.0.aar\d8d04874220b04c611bf878e067ac65d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.1.0.aar\d8d04874220b04c611bf878e067ac65d\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc5e1fe4e3e526f206130ec494684dba\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc5e1fe4e3e526f206130ec494684dba\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\dc736df09bd428127e3219d3c24b6fff\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\dc736df09bd428127e3219d3c24b6fff\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0107767d71472ebef094f99a7c09a310\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0107767d71472ebef094f99a7c09a310\AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc5e1fe4e3e526f206130ec494684dba\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:31:7-39
+	android:roundIcon
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:33:7-52
+	android:icon
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:32:7-41
+	android:allowBackup
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:34:7-34
+	android:theme
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:35:7-38
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:30:7-38
+activity#com.pfa.MainActivity
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:36:7-45:18
+	android:label
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:38:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:40:9-51
+	android:configChanges
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:39:9-79
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:37:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:41:9-44:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:42:13-65
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:42:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:43:13-73
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:43:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:46:7-84
+	android:name
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml:46:17-81
+uses-sdk
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sketch-canvas] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-sketch-canvas\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sketch-canvas] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-sketch-canvas\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\a7a687e5496e8a96278bafe95bfc5bce\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\a7a687e5496e8a96278bafe95bfc5bce\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd5947a61c26055d16dea54b76aae9e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd5947a61c26055d16dea54b76aae9e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\71ae1863c6d09416605848222fc9de73\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\71ae1863c6d09416605848222fc9de73\AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-gl] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-gl\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-gl] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-gl\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-gl-cpp] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-gl-cpp\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-gl-cpp] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-gl-cpp\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\0abf071e89f1a75a8edc14020ea58469\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\0abf071e89f1a75a8edc14020ea58469\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b8087fa0ede4cdb151b7227b99b5ab0c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b8087fa0ede4cdb151b7227b99b5ab0c\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\6d6b7292234d41c25a31cbfbe29d2943\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\6d6b7292234d41c25a31cbfbe29d2943\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\36076074ef160ab044da84373ce3888b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\36076074ef160ab044da84373ce3888b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\6758ab5defb2bb5218abb99b4f7486c3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\6758ab5defb2bb5218abb99b4f7486c3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\c8952d643cf467e2c73a147053383de3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\c8952d643cf467e2c73a147053383de3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-17.0.2.aar\6c743f94b85a059055524c9af762911a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-17.0.2.aar\6c743f94b85a059055524c9af762911a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\3d7ecdf1585b5a158c425354dfb9083d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\3d7ecdf1585b5a158c425354dfb9083d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\046a102dbaeb2371368094d6fb25d379\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\046a102dbaeb2371368094d6fb25d379\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\a43a1dacf0382175b2671909fee864a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\a43a1dacf0382175b2671909fee864a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\cf75835bc917dc9a71b6e263c318cf85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\cf75835bc917dc9a71b6e263c318cf85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7cb6d3edc6b418841147e81d1a3446d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7cb6d3edc6b418841147e81d1a3446d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\24d77607976419036286f996d339ef54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\24d77607976419036286f996d339ef54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.1.0.aar\d8d04874220b04c611bf878e067ac65d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.1.0.aar\d8d04874220b04c611bf878e067ac65d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\292170a398bbc8616bc7a92ab7012697\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\292170a398bbc8616bc7a92ab7012697\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\c721049d022404a244ad6d7230afc292\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\c721049d022404a244ad6d7230afc292\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\4049baf95fd7a78c02dc95f4b019f0ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\4049baf95fd7a78c02dc95f4b019f0ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\df10c2e38bd0dfed1c23820618d943f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\df10c2e38bd0dfed1c23820618d943f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\63961837fb6e8eec17bcf73522e1db63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\63961837fb6e8eec17bcf73522e1db63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\01222fd2e7cda8bb5342ab3d1b816f8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\01222fd2e7cda8bb5342ab3d1b816f8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\db971776a2c14916a9bb8412282eb157\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\db971776a2c14916a9bb8412282eb157\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\cb7349a619065cdbfda4553000bb1ad5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\cb7349a619065cdbfda4553000bb1ad5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\66067dbcf4d788d03b05008f7c7b445f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\66067dbcf4d788d03b05008f7c7b445f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\f5cf97ef4fab6c262e76e33742be8e80\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\f5cf97ef4fab6c262e76e33742be8e80\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\67c30e19f3d73d0038456e080ac5447f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\67c30e19f3d73d0038456e080ac5447f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\7484aee4d6e166f89043911d0ae0ee8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\7484aee4d6e166f89043911d0ae0ee8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\c85fbf4cbad9f2379ccaf3a506aac67b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\c85fbf4cbad9f2379ccaf3a506aac67b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\5ef3eb580c14ab8ad8a8168d8d608b0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\5ef3eb580c14ab8ad8a8168d8d608b0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\d60afb6853f2144c8432f998080fd79b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\d60afb6853f2144c8432f998080fd79b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\579f37da65bedab718fd1def893090b3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\579f37da65bedab718fd1def893090b3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\e2f71d763b5957349644d8108a86d7f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\e2f71d763b5957349644d8108a86d7f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\a258411b76a1eab08ae3d6d37e87b0e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\a258411b76a1eab08ae3d6d37e87b0e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\d6c181cd12f4f3696de6463ae447da9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\d6c181cd12f4f3696de6463ae447da9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7a86f62eddf51963b862ccd40fad87d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7a86f62eddf51963b862ccd40fad87d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1be8db13cf52aa11495e41ae20fef894\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\1be8db13cf52aa11495e41ae20fef894\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\a70d9ee567dda1830e7c2678bcf1af99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\a70d9ee567dda1830e7c2678bcf1af99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c9f3a9908c75c8419e07a4c8201953cd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c9f3a9908c75c8419e07a4c8201953cd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\401b7c39355b885029dd7893373b0f25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\401b7c39355b885029dd7893373b0f25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc5e1fe4e3e526f206130ec494684dba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc5e1fe4e3e526f206130ec494684dba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5036d70b4ffd5052c857c0568819d433\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5036d70b4ffd5052c857c0568819d433\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\67015defd9b23e6982ecea75f40c2e63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\67015defd9b23e6982ecea75f40c2e63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\dc736df09bd428127e3219d3c24b6fff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\dc736df09bd428127e3219d3c24b6fff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\a2d4c860422ae534011370a09b8f72b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\a2d4c860422ae534011370a09b8f72b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\122c84861d6f3717d109b8cdbab4a2a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\122c84861d6f3717d109b8cdbab4a2a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\f44726843cb6000669c90694218dfd7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\f44726843cb6000669c90694218dfd7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\bed616d82469887d642a725aad993f9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\bed616d82469887d642a725aad993f9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\333cc338757fc2f5938308cccaaaddde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\333cc338757fc2f5938308cccaaaddde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\091613b83921a2cfa9ad7e8d22c899fb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\091613b83921a2cfa9ad7e8d22c899fb\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\a9a491911256fa342ef9b6e3ccac39c0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\a9a491911256fa342ef9b6e3ccac39c0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\87a45353b9c53ff0ce24a19888686fe9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\87a45353b9c53ff0ce24a19888686fe9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\df967c0cbf6863279a59420e06ab5eba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\df967c0cbf6863279a59420e06ab5eba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\51383ea825f507326bc4128310b49d1c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\51383ea825f507326bc4128310b49d1c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\0cd8eb3b4faa3d4c6828e1b75a3f3e12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\0cd8eb3b4faa3d4c6828e1b75a3f3e12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\08fae258b033a8220aad8ce2c0a8b3dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\08fae258b033a8220aad8ce2c0a8b3dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\f0143c33357bb2e4d791f0d01105a16f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\f0143c33357bb2e4d791f0d01105a16f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0107767d71472ebef094f99a7c09a310\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0107767d71472ebef094f99a7c09a310\AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\ee6b6928d7f5dcac6a8c0fd391d0747b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\ee6b6928d7f5dcac6a8c0fd391d0747b\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\android\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:15:9-57
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+uses-feature#0x00020000
+ADDED from [:expo-gl] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-gl\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:36
+	android:glEsVersion
+		ADDED from [:expo-gl] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-gl\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from [:expo-gl] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-gl\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-33
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] C:\Users\MAZER Omar\Desktop\pfa backup\pfa avec camera\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\cf75835bc917dc9a71b6e263c318cf85\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\cf75835bc917dc9a71b6e263c318cf85\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\cf75835bc917dc9a71b6e263c318cf85\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\cf75835bc917dc9a71b6e263c318cf85\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.1.0.aar\d8d04874220b04c611bf878e067ac65d\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.1.0.aar\d8d04874220b04c611bf878e067ac65d\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.1.0.aar\d8d04874220b04c611bf878e067ac65d\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\MAZER Omar\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\38ed0780613af7d75ad9c80e3cb34c35\AndroidManifest.xml:26:13-120

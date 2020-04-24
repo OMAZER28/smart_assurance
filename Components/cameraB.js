@@ -12,6 +12,7 @@ export default class CameraB extends PureComponent {
       const options = { quality: 0.5, base64: true };
       const photo = await this.camera.takePictureAsync(options);
       this.uploadImage(photo.uri, "B");
+      this.camera.pausePreview();
       Actions.page7()
     }
   }

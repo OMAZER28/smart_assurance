@@ -200,7 +200,7 @@ export default DropDownMenu = (props) => {
             <View>
                 <Modal
                     visible={visibleForHelp}
-                    modalTitle={<ModalTitle title="Aide sur le remplissage" />}
+                    modalTitle={<ModalTitle title="Aide au remplissage" />}
                     onTouchOutside={() => {
                         setVisibleForHelp(false);
                     }}

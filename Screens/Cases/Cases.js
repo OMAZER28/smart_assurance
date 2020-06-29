@@ -62,7 +62,7 @@ export default Cases = () => {
                             <Text style={[styles.text, {color: checked == 'second'? 'white': '#AAA'}]}>Deuxième cas</Text>
                         </View>
                         <View style={[styles.caseTextContainer, {backgroundColor : checked == 'second'? '#F45':'#EEE'}]}>
-                            <Text style={[styles.description, {color: checked == 'second'? 'white': '#AAA'}]}>Remplire Vous Même Votre Constat (Avec 2 Smartphones)</Text>
+                            <Text style={[styles.description, {color: checked == 'second'? 'white': '#AAA'}]}>Remplir Vous Même Votre Constat (Avec 2 Smartphones)</Text>
                         </View>
                     </View>
                 </View>

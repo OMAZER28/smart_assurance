@@ -80,7 +80,7 @@ export default Case2 = (props) => {
                 loading={isLoading} />
             <ScrollView>
                 <View style={styles.question}>
-                    <Text style={styles.title}>Veuillez choisir par quelle partie vous voulez commencez</Text>
+                    <Text style={styles.title}>Veuillez choisir par quelle partie vous voulez commencer</Text>
                 </View>
                 <TouchableOpacity onPress={goToCase2Choice1Step1} style={isChoice1Disabled ? styles.disabled : styles.enabled} disabled={isChoice1Disabled}>
                     <View style={styles.firstChoice}>
@@ -90,7 +90,7 @@ export default Case2 = (props) => {
                             <Text style={styles.boxText}>A</Text>
                         </View>
                         <View style={styles.description1}>
-                            <Text style={styles.desc}>Cliquez sur cette véhicule si vous voulez commencez par A</Text>
+                            <Text style={styles.desc}>Cliquez sur ce véhicule si vous voulez commencer par A</Text>
                         </View>
                     </View>
                 </TouchableOpacity>
@@ -102,7 +102,7 @@ export default Case2 = (props) => {
                             <Text style={styles.boxText}>B</Text>
                         </View>
                         <View style={styles.description2}>
-                            <Text style={styles.desc}>Cliquez sur cette véhicule si vous voulez commencez par B</Text>
+                            <Text style={styles.desc}>Cliquez sur ce véhicule si vous voulez commencer par B</Text>
                         </View>
                     </View>
                 </TouchableOpacity>

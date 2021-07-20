@@ -24,7 +24,7 @@
     "react": "16.11.0",
     "react-dom": "~16.9.0",
     "react-lifecycles-compat": "^3.0.4",
-    "react-native": "^0.61.4",
+    "react-native": "^0.62.3",
     "react-native-animated-form": "0.0.7",
     "react-native-camera": "^3.26.0",
     "react-native-check-box": "^2.1.7",
